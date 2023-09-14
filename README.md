@@ -1,12 +1,11 @@
 # HERO ENCRYPTOR
 
-ABOUT:
-
 This is a file encryptor that encrypts data using AES encryption with a 16byte key. AES is one of the securest encryptions out there.
 
 "AES has been adopted by the U.S. government and is now used worldwide."- wikipedia
 
 "The design and strength of all key lengths of the AES algorithm (i.e., 128, 192 and 256) are sufficient to protect classified information up to the SECRET level. TOP SECRET information will require use of either the 192 or 256 key lengths. The implementation of AES in products intended to protect national security systems and/or information must be reviewed and certified by NSA prior to their acquisition and use." - National Security Agency (NSA), wikipedia
+
 
 INSTRUCTIONS:
 
