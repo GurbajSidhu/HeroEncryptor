@@ -1,5 +1,4 @@
-
-#HERO ENCRYPTOR
+# HERO ENCRYPTOR
 
 ABOUT:
 This is a file encryptor that encrypts data using AES encryption with a 16byte key. AES is one of the securest encryptions out there.
@@ -11,7 +10,7 @@ This is a file encryptor that encrypts data using AES encryption with a 16byte k
 
 INSTRUCTIONS:
 
-~ENCRYPTING: COPY and PASTE the text you want to encrypt . It is advised to maintain the original copy as this application hasn't been tested thoroughly.(Any reviews and suggestions regarding the application are welcome: gurbajsidhu3076@gmail.com)
+~ENCRYPTING: COPY and PASTE the text you want to encrypt.
 
 ~DECRYPTING: COPY and PASTE the encrypted file and key file to the "Hero Encryptor" folder.
 
